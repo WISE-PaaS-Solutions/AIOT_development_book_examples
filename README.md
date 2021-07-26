@@ -1,27 +1,29 @@
 # AIOT 軟體應用開發實務
 
-Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+此為 [AIOT軟體應用開發實務](www.google.com.tw) 範例程式碼，含有各章節練習所使用之範例程式碼。<br/>
+
+![書籍封面](cover.jpg)
+* 出版社:
+* 書號:
+* 作者:
 
 ## Getting Started
 
 ### Dependencies
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Windows 10 (64bit Pro, Enterprise or Eductation) , Build 16299 and later, enable Hyper-V and container in Windows Feature
 
 ### Installing
 
 * How/where to download your program
-* Any modifications needed to be made to files/folders
 
 ### Executing program
 
 * How to run the program
-* Step-by-step bullets
 ```
 code blocks for commands
 ```
@@ -36,6 +38,5 @@ command to run if program contains helper info
 ## Authors
 
 Contributors names and contact info
-
-* Dominique Pizzie  
-* [@DomPizzie](https://twitter.com/dompizzie)
+ 
+* [someone](someone@mail)
