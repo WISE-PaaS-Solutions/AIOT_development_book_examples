@@ -6,9 +6,7 @@
 此為 [AIOT軟體應用開發實務](www.google.com.tw) 範例程式碼，含有各章節練習所使用之範例程式碼。<br/>
 
 ![書籍封面](cover.jpg)
-* 出版社:
-* 書號:
-* 作者:
+
 
 ## Getting Started
 
