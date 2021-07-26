@@ -20,7 +20,5 @@
 
 ## 作者
 
-Contributors names and contact info
- 
 * [someone](someone@mail)
 * [Advantech研華](mailto:wise-paas.support@advantech.com.tw)
