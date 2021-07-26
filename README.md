@@ -20,5 +20,6 @@
 
 ## 作者
 
-* [someone](someone@mail)
+* [作者1](someone@mail)
+* [作者2](someone@mail)
 * [Advantech研華](mailto:wise-paas.support@advantech.com.tw)
