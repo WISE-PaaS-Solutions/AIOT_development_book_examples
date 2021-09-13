@@ -1,11 +1,8 @@
 # AIOT 軟體應用開發實務
 
-
-## 介紹
-
 此為 [AIOT軟體應用開發實務]() 範例程式碼，含有各章節練習所使用之範例程式碼。<br/>
 
-![書籍封面](https://github.com/WISE-PaaS-Support/AIOT_development_book_examples/blob/main/cover.jpg?raw=true)
+![書籍封面](./cover.png)
 
 
 
@@ -23,7 +20,8 @@
 
 
 ## 作者
+* 東海大學數位創新碩士班[周忠信]()主任
+* 教師群[李政雄]()、[林慶昇]()、[陳仕偉]()、[廖彥法]()、[林正基]()
 
-* [出版者1](someone@mail)
-* [出版者2](someone@mail)
-* [Advantech研華](mailto:wise-paas.support@advantech.com.tw)
+## 策劃單位
+* [財團法人研華文教基金會]()
