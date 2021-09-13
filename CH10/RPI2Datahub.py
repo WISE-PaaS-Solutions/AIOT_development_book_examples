@@ -14,7 +14,7 @@ from wisepaasdatahubedgesdk.Model.Edge import EdgeAgentOptions, MQTTOptions, DCC
 from wisepaasdatahubedgesdk.Common.Utils import RepeatedTimer
 
 import sys
-import Adafruit_DHT
+import adafruit_dht
 
 sensor = 11
 pin = 4  # pin 7
@@ -186,7 +186,7 @@ class App():
       self._edgeAgent.uploadConfig(action = constant.ActionType['Delete'], edgeConfig = config)
 
     def __generateData():
-      humidity, temperature = Adafruit_DHT.read_retry(sensor, pin)
+      humidity, temperature = adafruit_dht.read_retry(sensor, pin)
       edgeData = EdgeData()
       tag = EdgeTag('Device1', 'DTag1', temperature)
       edgeData.tagList.append(tag)
