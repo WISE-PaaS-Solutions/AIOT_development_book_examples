@@ -5,7 +5,7 @@
 
 此為 [AIOT軟體應用開發實務]() 範例程式碼，含有各章節練習所使用之範例程式碼。<br/>
 
-![書籍封面](cover.jpg)
+![書籍封面](https://github.com/WISE-PaaS-Support/AIOT_development_book_examples/blob/main/cover.jpg?raw=true)
 
 
 
